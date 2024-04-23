@@ -4,8 +4,8 @@
 
 ## Grob-Planung
 
-1. Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
-2. Was hatten Sie sich am Ende von LP4 vorgenommen? Was war Ihr VBV? Wie könnten Sie diesen besonders gut üben?
+1. Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig? In diesem Semester haben wir nur eine Note zurück bekommen bis jetzt. In dieser Prüfung ging es um SQL und ich hatte die Note 5. Das Modul war wichtig.
+2. Was hatten Sie sich am Ende von LP4 vorgenommen? Was war Ihr VBV? Wie könnten Sie diesen besonders gut üben? Ich habe mir vorgenommen mehr zu Programmieren und 
 4. Was wäre ein geeignetes Projekt für diese LP5?
 
 ## 23.4.2024
