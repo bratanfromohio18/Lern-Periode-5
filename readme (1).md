@@ -10,13 +10,14 @@
 
 ## 23.4.2024
 
-✍️ Heute habe ich... (50-100 Wörter)
+Heute habe ich mich über HTML und CSS informiert und ich habe ein bisschen an dem gearbeitet. Ebenfalls habe ich am Modul 106 gearbeitet weil ich noch einen wichtigen Auftrag offen hatte zum erledigen der Auftrag ist jedoch jetzt fertig gelöst. Ich habe mich ebenfalls auch mit dem Internet ein bisschen über HTML informiert damit ich nächstes mal ein Projekt starten kann.
 
 ## 30.4.2024
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [ ] Viertes AP
+- [ ] Eine Website anfangen über einen Fussballer.
+- [ ] Dieses Video anschauen: https://youtu.be/Q3MIitoSQkE?si=hJKZZKhBUQywB-7G
+- [ ] LA_106_2418 lösen.
+- [ ] LA_106_2419 lösen.
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
