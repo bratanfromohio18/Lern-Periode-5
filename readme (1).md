@@ -14,11 +14,16 @@ Heute habe ich mich über HTML und CSS informiert und ich habe ein bisschen an d
 
 ## 30.4.2024
 
-- [ ] Eine Website anfangen über einen Fussballer.
+- [X] Eine Website anfangen über einen Fussballer.
 - [X] Dieses Video anschauen: https://youtu.be/Q3MIitoSQkE?si=hJKZZKhBUQywB-7G
 - [ ] LA_106_2418 lösen.
 - [ ] LA_106_2419 lösen.
 
-✍️ Heute habe ich... (50-100 Wörter)
+✍️ Heute habe ich mit einer WebSite begonnen über Yamaha. Ebenfalls habe ich mir das verlinkte Video angeschaut und ich habe die Websiten gut verstanden durch das Video. Ebenfalls habe ich mir das Recordingvideo auf Teams nochmal angeschaut und repetiert. 
 
-☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
+## 07.04.2024
+
+- [ ] An der Website weiterarbeiten
+- [ ] LA_106_2418 lösen.
+- [ ] LA_106_2419 lösen.
+- [ ] Ein Video zu CSS anschauen.
