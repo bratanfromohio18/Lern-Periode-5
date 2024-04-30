@@ -15,7 +15,7 @@ Heute habe ich mich über HTML und CSS informiert und ich habe ein bisschen an d
 ## 30.4.2024
 
 - [ ] Eine Website anfangen über einen Fussballer.
-- [ ] Dieses Video anschauen: https://youtu.be/Q3MIitoSQkE?si=hJKZZKhBUQywB-7G
+- [X] Dieses Video anschauen: https://youtu.be/Q3MIitoSQkE?si=hJKZZKhBUQywB-7G
 - [ ] LA_106_2418 lösen.
 - [ ] LA_106_2419 lösen.
 
