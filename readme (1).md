@@ -19,11 +19,13 @@ Heute habe ich mich über HTML und CSS informiert und ich habe ein bisschen an d
 - [ ] LA_106_2418 lösen.
 - [ ] LA_106_2419 lösen.
 
-✍️ Heute habe ich mit einer WebSite begonnen über Yamaha. Ebenfalls habe ich mir das verlinkte Video angeschaut und ich habe die Websiten gut verstanden durch das Video. Ebenfalls habe ich mir das Recordingvideo auf Teams nochmal angeschaut und repetiert. 
+✍️ Heute habe ich mit einer WebSite begonnen über Yamaha. Ebenfalls habe ich mir das verlinkte Video angeschaut und ich habe die Websiten gut verstanden durch das Video. Ebenfalls habe ich mir das Recordingvideo auf Teams nochmal angeschaut und repetiert. Ebenfalls konnte ich mich sehr viel über HTML informieren und ich habe gut und effizient gearbeitet. Ich habe jedoch nicht alles machen können was ich mir vorgenommen habe. 
 
 ## 07.04.2024
 
 - [ ] An der Website weiterarbeiten
-- [ ] LA_106_2418 lösen.
-- [ ] LA_106_2419 lösen.
+- [X] LA_106_2418 lösen.
+- [X] LA_106_2419 lösen.
 - [ ] Ein Video zu CSS anschauen.
+
+✍️ Heute konnte ich an den Aufträgen vom Modul 106 gut weiterarbeiten. Ich habe den Auftrag 2418,2419 und den Auftrag 2415 lösen können. Ich habe effizient gearbeitet, jedoch konnte ich nicht an meiner Website weiterarbeiten weil ich meine Zeit für das Modul gebraucht habe. 
