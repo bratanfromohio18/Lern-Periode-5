@@ -28,4 +28,4 @@ Heute habe ich mich über HTML und CSS informiert und ich habe ein bisschen an d
 - [X] LA_106_2419 lösen.
 - [ ] Ein Video zu CSS anschauen.
 
-✍️ Heute konnte ich an den Aufträgen vom Modul 106 gut weiterarbeiten. Ich habe den Auftrag 2418,2419 und den Auftrag 2415 lösen können. Ich habe effizient gearbeitet, jedoch konnte ich nicht an meiner Website weiterarbeiten weil ich meine Zeit für das Modul gebraucht habe. 
+✍️ Heute konnte ich an den Aufträgen vom Modul 106 gut weiterarbeiten. Ich habe den Auftrag 2418,2419 und den Auftrag 2415 lösen können. Ich habe effizient gearbeitet, jedoch konnte ich nicht an meiner Website weiterarbeiten weil ich meine Zeit für das Modul gebraucht habe. Deswegen konnte ich nicht an allen Arbeitspaketen arbeiten und habe so nicht alles fertig geschafft. 
