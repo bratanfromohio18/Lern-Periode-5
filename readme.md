@@ -32,7 +32,21 @@ Heute habe ich mich über HTML und CSS informiert und ich habe ein bisschen an d
 
 ## 14.04.2024
 
-- [ ] An der Website weiterarbeiten
-- [ ] Ein Video zu CSS anschauen.
+- [X] An der Website weiterarbeiten
+- [X] Ein Video zu CSS anschauen. https://youtu.be/lXYGHPWgRJg?si=TNHcv6GWNQxAIPaX
 - [ ] Bilder zu der Website hinzufügen
 - [ ] Die Website mit CSS auffrischen
+
+# Gespräch mit Herr Colic:
+Die Arbeitspakete sollten genauer beschrieben werden. Durch das kann ich auch effizienter arbeiten kann. Ich sollte ebenfalls eine Website machen, die spannend für mich selber ist und ich habe mir vorgenommen eine Website über mein eigenes Motorrad zu machen.
+
+# Zusammenfassung
+Heute habe ich mir ein Video zu CSS angeschaut.Ich hatte ein gespräch mit Herr Colic und ich sollte an diesen Punkten arbeiten: Die Arbeitspakete sollten genauer beschrieben werden. Durch das kann ich auch effizienter arbeiten kann. Ich sollte ebenfalls eine Website machen, die spannend für mich selber ist und ich habe mir vorgenommen eine Website über mein eigenes Motorrad zu machen.
+Ebenfalls habe ich an meiner Website weitergearbeitet.
+
+## 21.05.2024
+
+- [ ] Ich füge in meine Website 5 Bilder ein und ein grosses Titelbild. Die 5 kleinen Bilder sollten nach Instagram Shema aussehen.
+- [ ] Ich füge ein Formular ein wo man seine E-mail und Namen eingeben muss
+- [ ] Ich ändere die Schriftfarbe und Schriftart.
+- [ ] Ich will das man das es von dem Text und dem Titelbild einen übergang gibt.
