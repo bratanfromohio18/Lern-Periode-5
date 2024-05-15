@@ -46,7 +46,7 @@ Ebenfalls habe ich an meiner Website weitergearbeitet.
 
 ## 21.05.2024
 
-- [ ] Ich füge in meine Website 5 Bilder ein und ein grosses Titelbild. Die 5 kleinen Bilder sollten nach Instagram Shema aussehen.
+- [ ] Ich füge in meine Website 5 Bilder ein und ein grosses Hintergrundbild ein. Die 5 kleinen Bilder sollten nach Instagram Shema aussehen.
 - [ ] Ich füge ein Formular ein wo man seine E-mail und Namen eingeben muss
 - [ ] Ich ändere die Schriftfarbe und Schriftart.
 - [ ] Ich will das man das es von dem Text und dem Titelbild einen übergang gibt.
