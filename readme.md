@@ -46,7 +46,16 @@ Ebenfalls habe ich an meiner Website weitergearbeitet.
 
 ## 21.05.2024
 
-- [X] Ich füge in meine Website 5 Bilder ein und ein grosses Hintergrundbild ein. Die 5 kleinen Bilder sollten nach Instagram Shema aussehen.
+- [X] Ich füge in meine Website ein grosses Hintergrundbild ein.
 - [X] Ich füge ein Formular ein wo man seine E-mail und Namen eingeben muss
 - [X] Ich ändere die Schriftfarbe und Schriftart.
 - [X] Ich möchte mehrere Seiten verlinken innerhalb meiner Website.
+
+Ich habe die Arbeit des 21.05 vorgeholt und habe sie am 17.05 gemacht. Heute habe ich sehr effizient an meiner Website gearbeitet und ich gut weiter gekommen. Ich konnte vieles neues an der Website erstellen wie zum Beispiel die verlinkung der verschiedenen Websiten und Abschnitte meiner Website. Ich konnte ebenfalls den Submit Button umgestallten und es sieht jetzt besser aus. Ich habe die Schriftfarbe und Schriftart geändert.
+
+## 28.05.2024
+
+- [ ] Heute möchte ich das das Hintergrund fix ist und die Schrift sich bewegt.
+- [ ] Heute möchte ich das ich das EIngegebene im Formular über E-mail erhalte
+- [ ] Heute möchte ich die Fotos von meinem Motorrad einfügen und stylen.
+- [ ] Heute möchte ich einen Balken oben beim Titel einfügen.
