@@ -55,7 +55,16 @@ Ich habe die Arbeit des 21.05 vorgeholt und habe sie am 17.05 gemacht. Heute hab
 
 ## 28.05.2024
 
-- [ ] Heute möchte ich das das Hintergrund fix ist und die Schrift sich bewegt.
+- [X] Heute möchte ich das das Hintergrund fix ist und die Schrift sich bewegt.
 - [ ] Heute möchte ich das ich das EIngegebene im Formular über E-mail erhalte
 - [ ] Heute möchte ich die Fotos von meinem Motorrad einfügen und stylen.
 - [ ] Heute möchte ich einen Balken oben beim Titel einfügen.
+
+Heute hatte ich die Nachhohlprüfung des Moduls 117 geschrieben und deshalb hatte ich nicht viel Zeit um meine Arbeitspakete zu erledigen. Ich werde für die nächste Woche die gleichen Arbeitspakete nehmen weil die Arbeitspakete mir sehr wichtig sind. Ich konnte das erste Arbeitspaket jedoch erledigen. Mein Text kann sich jetzt bewegen und das Bild im Hintergrund bleibt stehen. 
+
+## 04.06.2024
+
+- [ ] Heute möchte ich das ich das EIngegebene im Formular über E-mail erhalte
+- [ ] Heute möchte ich die Fotos von meinem Motorrad einfügen und stylen.
+- [ ] Heute möchte ich einen Balken oben beim Titel einfügen.
+- [ ] Heute möchte ich den Submit button verschönern
