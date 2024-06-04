@@ -65,6 +65,15 @@ Heute hatte ich die Nachhohlprüfung des Moduls 117 geschrieben und deshalb hatt
 ## 04.06.2024
 
 - [ ] Heute möchte ich das ich das EIngegebene im Formular über E-mail erhalte
-- [ ] Heute möchte ich die Fotos von meinem Motorrad einfügen und stylen.
-- [ ] Heute möchte ich einen Balken oben beim Titel einfügen.
+- [X] Heute möchte ich die Fotos von meinem Motorrad einfügen und stylen.
+- [X] Heute möchte ich einen Balken oben beim Titel einfügen.
 - [ ] Heute möchte ich den Submit button verschönern
+
+Heute hatten wir Distanzunterricht und ich konnte gut an meinen Zielen arbeiten. Jedoch habe ich mit dem 2. Arbeitspaket zu viel Zeit verschwendet und somit hatte ich nicht genug Zeit um die anderen Arbeitspakete zu erledigen. Ich werde die anderen Arbeitspakete für das nächste mal wieder nehmen damit ich das doch noch erledigen kann. Ebenfalls habe ich die Note des Nacholtests bekommen und ich habe mich noch ein bisschen mit dem Modul 117 beschäftigt.
+
+## 11.06.2024
+
+- [ ] Heute möchte ich den Submit button verschönern
+- [ ] Heute möchte ich das ich das EIngegebene im Formular über E-mail erhalte
+- [ ] Ich möchte in den Balken ein Logo einfügen.
+- [ ] Ich möchte das man von dem Logo auf die Offizielle Yamaha Website kommt.
