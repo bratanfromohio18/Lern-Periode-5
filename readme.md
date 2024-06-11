@@ -73,7 +73,9 @@ Heute hatten wir Distanzunterricht und ich konnte gut an meinen Zielen arbeiten.
 
 ## 11.06.2024
 
-- [ ] Heute möchte ich den Submit button verschönern
+- [X] Heute möchte ich den Submit button verschönern
 - [ ] Heute möchte ich das ich das EIngegebene im Formular über E-mail erhalte
-- [ ] Ich möchte in den Balken ein Logo einfügen.
-- [ ] Ich möchte das man von dem Logo auf die Offizielle Yamaha Website kommt.
+- [X] Ich möchte in den Balken ein Logo einfügen.
+- [X] Ich möchte das man von dem Logo auf die Offizielle Yamaha Website kommt.
+
+Ich habe oben in meinen Header ein Logo eingefügt. Das Logo poppt so auf und es hat einen Effekt drin. 
