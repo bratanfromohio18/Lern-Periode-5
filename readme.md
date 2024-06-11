@@ -83,4 +83,6 @@ Ich habe oben in meinen Header ein Logo eingefügt. Das Logo poppt so auf und es
 ## 18.06.2024
 
 - [ ] Heute möchte ich das Eingegebene im Formular über E-Mail erhalten.
-- [ ] 
+- [ ] Heute möchte ich 2 weitere Seiten verlinken.
+- [ ] Heute möchte ich ein Dropdown Menu einbauen.
+- [ ] Heute möchte ich die Website mit den Farben verschönern.
