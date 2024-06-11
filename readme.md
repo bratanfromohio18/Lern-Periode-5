@@ -78,4 +78,9 @@ Heute hatten wir Distanzunterricht und ich konnte gut an meinen Zielen arbeiten.
 - [X] Ich möchte in den Balken ein Logo einfügen.
 - [X] Ich möchte das man von dem Logo auf die Offizielle Yamaha Website kommt.
 
-Ich habe oben in meinen Header ein Logo eingefügt. Das Logo poppt so auf und es hat einen Effekt drin. 
+Ich habe oben in meinen Header ein Logo eingefügt. Das Logo poppt so auf und es hat einen Effekt drin. Man kann das Logo anklicken und kommt dabei auf die YAMAHA Website. Ebenfalls habe ich den Button ein bisschen verändert und ein bisschen ausprobiert. Es hat gut funktioniert und ich habe lange gebraucht an dem Logo und dem verschönern. Dabei konnte ich das zweite Arbeitspaket des heutigen Tages nicht erreichen. 
+
+## 18.06.2024
+
+- [ ] Heute möchte ich das Eingegebene im Formular über E-Mail erhalten.
+- [ ] 
