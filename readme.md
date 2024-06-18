@@ -83,6 +83,13 @@ Ich habe oben in meinen Header ein Logo eingefügt. Das Logo poppt so auf und es
 ## 18.06.2024
 
 - [ ] Heute möchte ich das Eingegebene im Formular über E-Mail erhalten.
-- [ ] Heute möchte ich 2 weitere Seiten verlinken.
-- [ ] Heute möchte ich ein Dropdown Menu einbauen.
-- [ ] Heute möchte ich die Website mit den Farben verschönern.
+- [X] Heute möchte ich 2 weitere Seiten verlinken.
+- [X] Heute möchte ich ein Dropdown Menu einbauen.
+- [X] Heute möchte ich die Website mit den Farben verschönern.
+
+Heute habe ich zwei weitere Seiten verlinkt und ein Dropdown Menu eingebaut. Dabei habe ich die Farben der Website gut gemacht und die Website sieht schon viel designter und besser aus. Ebenfalls konnte ich das erste Arbeitspaket nicht erledigen weil will nicht genug Zeit hatten deshalb nehme ich das Arbeitspaket für die nächste Woche nochmal. Ich habe mich für die drei wichtigsten entschieden. 
+
+## 25.06.2024
+
+- [ ] Heute möchte ich das Eingegebene im Formular über E-Mail erhalten.
+- [ ] Heute möchte ich die Bilder Seite verschönern und Text einbauen.
