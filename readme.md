@@ -92,4 +92,6 @@ Heute habe ich zwei weitere Seiten verlinkt und ein Dropdown Menu eingebaut. Dab
 ## 25.06.2024
 
 - [ ] Heute möchte ich das Eingegebene im Formular über E-Mail erhalten.
-- [ ] Heute möchte ich die Bilder Seite verschönern und Text einbauen.
+- [X] Heute möchte ich die Bilder Seite verschönern und Text einbauen.
+
+Leider habe ich heute das Formular nicht bearbeiten können weil ich nicht so viel Zeit hatte. Ich habe an der LB293 bisschen weitergearbeitet dafür und darum konnte ich es auch nicht erfüllen. Heute war der letzte Tag von der LP5 und ich war gut am arbeiten und konnte das 2. Arbeitspaket erfolgreich absolvieren und es ist gut herausgekommen.
