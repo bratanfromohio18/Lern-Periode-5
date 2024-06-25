@@ -95,3 +95,7 @@ Heute habe ich zwei weitere Seiten verlinkt und ein Dropdown Menu eingebaut. Dab
 - [X] Heute möchte ich die Bilder Seite verschönern und Text einbauen.
 
 Leider habe ich heute das Formular nicht bearbeiten können weil ich nicht so viel Zeit hatte. Ich habe an der LB293 bisschen weitergearbeitet dafür und darum konnte ich es auch nicht erfüllen. Heute war der letzte Tag von der LP5 und ich war gut am arbeiten und konnte das 2. Arbeitspaket erfolgreich absolvieren und es ist gut herausgekommen.
+
+## Reflexion
+
+Ich finde ich habe mich in dieser Lern-Periode stark gesteigert und ich konnte viel neues dazu lernen. Ich finde das ich meien Verbesserungsvorschläge gut umgesetzt habe und besser gearbeitet habe als in den letzten LP`s. Ich habe meine Arbeitspakete viel besser formuliert und konnte somit auch mehr erreichen. Ich konnte für das Modul 293 viel wissen vorarbeiten und habe mich somit auch viel mit dem Thema HTML beschäftigt.
